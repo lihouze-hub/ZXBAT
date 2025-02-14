@@ -234,7 +234,7 @@ def new_file():
 
 # 关于功能
 def about():
-    messagebox.showinfo("关于", "ZXBAT\n当前版本号:V1.1\n制作者：玩颠脑的账户已注销\n注销集团版权所有©2025")
+    messagebox.showinfo("关于", "ZXBAT\n当前版本号:V1.1")
 
 def settingexe():
     global icon
